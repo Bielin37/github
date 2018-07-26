@@ -1,0 +1,299 @@
+/** Globalne style **/
+p {
+	font-size: .9rem;
+	line-height: 1.75rem;
+}
+
+.btn {
+	padding: .5rem 1.25rem;
+}
+
+.page-label {
+	letter-spacing: .15rem;
+	font-size: .75rem;
+}
+
+.page-label2 {
+	letter-spacing: .15rem;
+	font-size: 1.2rem;
+}
+
+.page-label3 {
+	letter-spacing: .15rem;
+	font-size: 1rem;
+}
+
+/** Navbar **/
+.navbar .navbar-nav .nav-item {
+	padding: 0 1.5rem;
+}
+
+
+/** Top **/
+.top {
+	padding: 165px 0 175px;
+	background-image: url('../img/okna.jpg');
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+}
+
+.top-header {
+	margin-bottom: 1.25rem;
+	font-size: 2.75rem;
+}
+
+.top-text {
+	font-size: 1rem;
+}
+
+.top-button {
+	margin-top: 1.5rem;
+}
+
+
+/** Realizacje **/
+.portfolio {
+	padding: 80px 0 90px;
+	background-color: #F8F8F8;
+}
+
+.portfolio-header {
+	margin-bottom: 75px;
+}
+
+.portfolio-img {
+	margin-bottom: 1.5rem;
+}
+
+.portfolio-subheader {
+	margin: .4rem 0 1rem;
+	font-size: 1.1rem;
+}
+
+.portfolio-titel {
+	margin: .4rem 0 1rem;
+	font-size: 1.4rem;
+}
+
+
+.portfolio-button {
+	margin: .5rem 0;
+	padding: .5rem 2rem;
+}
+
+
+/** Stopka **/
+.site-footer {
+	padding: 10px 0 10px;
+	background-color: #2D3E50;
+	font-size: .9rem;
+	margin-top:15px;
+	color: #bab6b6;
+}
+
+.navi-color:hover { 
+
+	color: #cb6724;
+}
+
+.footer-color {
+	font-size: 1.1rem;
+	color: #cb6724;
+}
+
+.footer-first-col li {
+	padding: .6rem 0;
+}
+
+.footer-first-col li i {
+	margin-right: .75rem;
+}
+
+.footer-second-col li {
+	padding: 1rem 0;
+	width: 90%;
+	border-bottom: 1px solid #777777;
+}
+
+.footer-second-col li:last-child {
+	border-bottom: none;
+}
+
+.footer-second-col li:first-child {
+	padding-top: 0;
+}
+
+.footer-second-col li span {
+	display: inline-block;
+	margin-right: .5rem;
+	font-weight: 600;
+}
+
+/** Copyright **/
+.copyright {
+	padding: 30px 0;
+}
+
+.copyright-designed {
+	font-size: .85rem;
+}
+
+.text_nag {
+	
+	color: #cb6724;
+}
+
+.text_nag2 {
+	
+	color: #0d41d5;
+}
+
+/** kolorystyka **/
+
+.btn-warning {
+
+	background: #cb6724;
+	border: #cb6724;
+}
+
+.btn-warning:hover {
+
+	background: #ed8d4c;
+	border: #ed8d4c;
+}
+
+.color_cop {
+	
+    background-color: #cb6724;
+}
+.lewa {
+	text-align:center;
+	border-top-style: double;
+	border-bottom-style: double;
+	border-left-style: double;
+	border-right-style: double;
+	width:50%;
+	margin-bottom:15px;
+	float:left;
+	margin-right:15px;
+	
+}
+.mapa {
+
+}
+
+.okno-wrapper, .okno-hover {
+	width: 100%;
+	height: 100%;
+	margin: 0
+}
+
+.okno-pcv {
+	border-style:dotted solid;
+	padding: 40px 30px 20px;
+	position: relative;
+	height: auto;
+
+}
+.okno-pcv1 {
+	border-style:dotted solid;
+	padding: 40px 30px 20px;
+	position: relative;
+
+}
+
+.contact-btn {
+	text-align:center;
+	margin-top:30px;
+}
+
+.nagl1 {
+	text-align:center;
+	font-size:x-large;
+	color:#0d41d5;
+}
+
+.nagl2 {
+	text-align:center;
+	margin-left:10%;
+	font-size:large;
+	color:#cb6724;
+	width:80%;
+}
+
+
+
+/*  Moje do sklepu */
+
+.form_img {
+	width:75%;
+	
+}
+
+.text_conf {
+	
+	line-height: 0.5em;
+	font-size: 1.125em;
+}
+
+.link_color  {
+	
+	color: black;
+}
+
+.link_color2  {
+	
+	color: grey;
+}
+
+.link_color3  {
+	
+	color: green;
+}
+
+.link_color4  {
+	
+	color: red;
+}
+
+.link_color:hover, .link_color2:hover, .link_color3:hover   {
+	
+	color: #cb6724;
+}
+
+.min_img {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	width:20%;
+	
+}
+ .table-text {
+	 
+	 font-size: 12px; 
+ }
+ 
+ .label-text {
+	 
+	 font-size: 10px; 
+ }
+ 
+ .icon-text {
+	 
+	 font-size: 20px;
+ }
+
+ .logo {
+	width: 50%;
+	height: 50%;
+ }
+ 
+ .background_maps {
+	
+	background-image: linear-gradient(rgba(183, 186, 188, 0.7), rgba(183, 186, 188, 0.7)), url("d.jpg");
+}
+
+.text-zam {
+	
+	font-size: 0.6em;
+}
